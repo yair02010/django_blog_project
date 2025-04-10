@@ -86,9 +86,9 @@ Username: yair1122
 Password: yair1122 (same as username)
 
 User Example
-Username: user1
+Username: yair
 
-Password: user1password
+Password: 123456
 
 API Documentation
 GET /api/articles/ - Get all articles.
