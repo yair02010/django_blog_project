@@ -1,4 +1,3 @@
-# django_blog_project
 # Django Blog Project
 
 This is a simple blog project built with Django and React.
